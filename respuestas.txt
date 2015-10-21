@@ -1,3 +1,5 @@
 RVM es una herramienta que nos permite trabajar y gestionar con facilidad diferentes intérpretes y entornos de ruby para nuestros proyectos
 
 Utilizar el intérprete de ruby (ruby helloWorld.rb) muestra sólo las salidas por pantalla del código. Por el contrario, utilizar "irb helloworld.rb" muestra la línea de código que se va a ejecutar y a continuación el resultado que mostraría por pantalla
+
+La diferencia entre la ejecución del programa "Hola Mundo" con el intérprete interactivo (irb) y con PRY (pry) es que irb muestra la versión actual de ruby con la que se está trabajando y pry no
